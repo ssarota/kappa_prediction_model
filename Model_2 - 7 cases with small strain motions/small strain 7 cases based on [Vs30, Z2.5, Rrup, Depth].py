@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import r2_score
 
-import keras
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.models import load_model
