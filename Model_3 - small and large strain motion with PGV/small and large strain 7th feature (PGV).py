@@ -7,7 +7,6 @@ from sklearn.metrics import r2_score
 
 from imblearn.over_sampling import SMOTE
 
-import keras
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.models import load_model
